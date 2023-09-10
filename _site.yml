@@ -11,16 +11,16 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "Research"
-      href: research.html
+    #- text: "Research"
+    #  href: research.html
     - text: "CV"
       href: https://Sany-Leon.github.io/cv/CV-SanyLeon.pdf
 
-    - text: "Teaching"
-      href: teaching.html
+    #- text: "Teaching"
+    #  href: teaching.html
 
-    - text: "Blog"
-      href: blog.html
+    #- text: "Blog"
+    #  href: blog.html
       # Menu bar
       #menu:
       #  - text: "Clases"
@@ -31,8 +31,8 @@ navbar:
       #  - text: "Introducción a Gis en R"
       #    href: https://eduard-martinez.gitlab.io/intro-gis-r/#/
     
-    - text: "Databases"
-      href: databases.html
+    #- text: "Databases"
+    #  href: databases.html
       
 # Theme https://bookdown.org/yihui/rmarkdown/html-document.html
 output:
